@@ -1,0 +1,27 @@
+# Node modules & logs
+node_modules
+npm-debug.log
+yarn-error.log
+pnpm-debug.log
+
+# Docker-related
+Dockerfile*
+.dockerignore
+
+# Git
+.git
+.gitignore
+
+# Environment files
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# OS & editor files
+.DS_Store
+*.swp
+*.swo
+*.bak
+*.tmp
